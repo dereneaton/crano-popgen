@@ -1,0 +1,20 @@
+2018-04-26 18:53:55,407 	pid=6489 	[assembly.py]	ERROR 	    Error: Step 1 requires that you enter one of the following:
+        (1) a sorted_fastq_path
+        (2) a raw_fastq_path + barcodes_path
+    
+2018-04-26 18:53:59,039 	pid=6489 	[assembly.py]	ERROR 	    Error: Step 1 requires that you enter one of the following:
+        (1) a sorted_fastq_path
+        (2) a raw_fastq_path + barcodes_path
+    
+2018-04-26 19:18:10,801 	pid=6489 	[assembly.py]	ERROR 	    Error: Must enter a raw_fastq_path or sorted_fastq_path, but not both.
+    
+2018-04-29 11:03:25,748 	pid=6489 	[assembly.py]	ERROR 	'DE_8.2_cranolopha'
+2018-04-29 11:06:29,854 	pid=6489 	[assembly.py]	ERROR 	    Output files already created for this Assembly in:
+    /home/deren/Documents/RADSEQ_DATA/analysis-ipyrad/cranos-min4p_outfiles
+    To overwrite, rerun using the force argument. 
+    
+2018-04-29 11:12:24,203 	pid=6489 	[write_outfiles.py]	ERROR 	error in filter_stacks on chunk 0: IndexError(index 114 is out of bounds for axis 1 with size 114)
+2018-04-29 11:12:24,204 	pid=6489 	[assembly.py]	ERROR 	error in filter_stacks on chunk 0: IndexError(index 114 is out of bounds for axis 1 with size 114)
+2018-04-30 10:35:09,025 	pid=6489 	[write_outfiles.py]	ERROR 	error in filter_stacks on chunk 0: IndexError(index 114 is out of bounds for axis 1 with size 114)
+2018-05-02 10:47:06,266 	pid=11164 	[assembly.py]	ERROR 	The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2018-05-02 10:51:47,458 	pid=11585 	[assembly.py]	ERROR 	local variable 'sidx' referenced before assignment
