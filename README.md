@@ -1,4 +1,4 @@
-## Cranolopha study
+## Popgen for cranolopha/furbishiae study
 
 Notebook 0: demultiplexing libraries
 
