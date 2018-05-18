@@ -1,12 +1,14 @@
 ## Cranolopha study
 
-Notebook 1: _pyRAD_ assembly of RADseq data  
+Notebook 0: demultiplexing libraries
 
-Notebook 2: _RAxML_ analysis
+Notebook 1: *ipyrad* assembly of RAD-seq data  
 
-Notebook 3: _STRUCTURE_ analysis  
+Notebook 2: *RAxML* analysis
 
-Notebook 4: _MIGRATE_ analysis
+Notebook 3: *STRUCTURE* analysis  
+
+Notebook 4: *MIGRATE* analysis
 
 Notebook 5: Community analysis
 
